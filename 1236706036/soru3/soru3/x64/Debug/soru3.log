@@ -1,0 +1,4 @@
+﻿  soru3.cpp
+C:\Users\Acer\source\repos\soru3\soru3\soru3.cpp(60,17): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\Acer\source\repos\soru3\soru3\soru3.cpp(84,17): warning C4267: 'başlatılıyor': 'size_t' - 'int' dönüşümü; veri kaybı olabilir
+  soru3.vcxproj -> C:\Users\Acer\source\repos\soru3\x64\Debug\soru3.exe
